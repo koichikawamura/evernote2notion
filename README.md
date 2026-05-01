@@ -10,7 +10,13 @@ Migrate your Evernote notes into a Notion database — with full fidelity.
 ## Installation
 
 ```bash
-pipx install git+https://github.com/koichikawamura/evernote2notion.git
+pipx install evernote2notion
+```
+
+Or run without installing:
+
+```bash
+pipx run evernote2notion --export-dir my-export --parent-page-id <PAGE_ID>
 ```
 
 ## Setup
