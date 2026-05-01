@@ -9,7 +9,7 @@ description = "Migrate Evernote HTML exports into a Notion database"
 readme = "README.md"
 requires-python = ">=3.9"
 license = { text = "MIT" }
-authors = [{ name = "Koichi KAWAMURA", email = "koichikwmr@gmail.com" }]
+authors = [{ name = "Koichi KAWAMURA", email = "koichikwmr@icloud.com" }]
 keywords = ["evernote", "notion", "migration", "import", "cli"]
 classifiers = [
     "Development Status :: 4 - Beta",
